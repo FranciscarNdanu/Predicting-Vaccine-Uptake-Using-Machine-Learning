@@ -27,4 +27,6 @@ The source dataset comes with the following data use restrictions:
 2. Make no use of the identity of any person or establishment discovered inadvertently and advise the Director, NCHS, of any such discovery (1 (800) 232-4636).
 3. Not link these data files with individually identifiable data from other NCHS or non-NCHS data files.
 
+Visualizations
+
 
