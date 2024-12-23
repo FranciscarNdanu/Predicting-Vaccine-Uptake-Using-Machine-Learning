@@ -31,7 +31,8 @@ Visualizations
 
 1. Modeling Techniques
 
-![Logistic Regression]([Images/Logistic_regression_ROC.png](https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/Logistic_regression_ROC.png))
+![Logistic Regression](https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/Logistic_regression_ROC.png)
+
 ![Decision Trees](https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/Decision_Tree_ROC.png)
 
 2. Factors influencing Vaccination
