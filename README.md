@@ -31,8 +31,8 @@ Visualizations
 
 1. Modeling Techniques
 
-Logistic Regression: Images/Logistic_regression_ROC.png
-Decision Trees: Images/Decision_Tree_ROC.png
+![Logistic Regression]Images/Logistic_regression_ROC.png
+![Decision Trees]Images/Decision_Tree_ROC.png
 
 2. Factors influencing Vaccination
 
