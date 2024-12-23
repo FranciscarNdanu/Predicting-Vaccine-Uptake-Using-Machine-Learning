@@ -44,7 +44,8 @@ Visualizations
 [Images/age_group.png](https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/age_group.png)
 
 4. Model Performance
-https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/Logistic_Decision_Comparison.png
+   
+[Images/Logistic_Decision_Comparison.png](https://github.com/FranciscarNdanu/Predicting-Vaccine-Uptake-Using-Machine-Learning/blob/bc693f8452604b84dc10c0abcc49496372c1dc6f/Images/Logistic_Decision_Comparison.png)
 
 
 Conclusions
