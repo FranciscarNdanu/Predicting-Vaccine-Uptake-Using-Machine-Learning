@@ -29,4 +29,24 @@ The source dataset comes with the following data use restrictions:
 
 Visualizations
 
+Conclusions
 
+1. Factors influencing vaccination
+Demographic factors such as age, significantly affect vaccine uptake. For instance, older groups were more likely to skip vaccination. Behavioral and informational aspects, like trust in healthcare providers and access to reliable information, also play key roles.
+
+2. Model Performance
+Both logistic regression and decision tree models provided reasonable performance, with AUC scores above 0.5 for both H1N1 and seasonal vaccines.
+Logistic regression models excelled in interpretability, making them suitable for identifying key predictors.
+Decision trees offered a transparent, rule-based approach but showed lower AUCs, suggesting that they might require further tuning or ensemble methods for optimal performance.
+
+3. Strategies for Stakeholders
+Public health organizations should focus on tailored interventions, such as:
+Educational campaigns aimed at dispelling vaccine misinformation.
+Community outreach programs to improve access to vaccines for underserved populations.
+Healthcare provider training to communicate vaccine benefits effectively.
+
+
+Recommendations
+
+1. Targeted interventions: Focus on educating people about vaccine effectiveness and safety, especially in regions with lower vaccination rates.
+2. Leverage healthcare providers: Strengthen communication between healthcare professionals and individuals to boost vaccine uptake.
