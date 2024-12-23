@@ -29,6 +29,23 @@ The source dataset comes with the following data use restrictions:
 
 Visualizations
 
+1. Modeling Techniques
+
+Logistic Regression: Images/Logistic_regression_ROC.png
+Decision Trees: Images/Decision_Tree_ROC.png
+
+2. Factors influencing Vaccination
+
+Images/Feature importance.png
+
+3. High Risk Groups
+
+Images/age_group.png
+
+4. Model Performance
+
+Images/Logistic_Decision_Comparison.png
+
 Conclusions
 
 1. Factors influencing vaccination
